@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllPosts should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <h3
+      class="MuiTypography-root MuiTypography-h3 css-6s8wfx-MuiTypography-root"
+    >
+      Welcome to my world 👋 🌎
+    </h3>
+    <div>
+      PostsGrid Mock
+    </div>
+    <div
+      class="MuiStack-root css-wanzkd-MuiStack-root"
+    >
+      <nav
+        aria-label="pagination navigation"
+        class="MuiPagination-root MuiPagination-outlined pagination css-1xra8g6-MuiPagination-root"
+        data-testid="pagination"
+      >
+        <ul
+          class="MuiPagination-ul css-1c5o7vy-MuiPagination-ul"
+        >
+          <li>
+            <button
+              aria-label="Go to previous page"
+              class="MuiButtonBase-root Mui-disabled MuiPaginationItem-root MuiPaginationItem-sizeMedium MuiPaginationItem-outlined MuiPaginationItem-circular MuiPaginationItem-colorPrimary MuiPaginationItem-outlinedPrimary Mui-disabled MuiPaginationItem-previousNext css-vs6a7b-MuiButtonBase-root-MuiPaginationItem-root"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiPaginationItem-icon css-8uzxat-MuiSvgIcon-root-MuiPaginationItem-icon"
+                data-testid="NavigateBeforeIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+                />
+              </svg>
+            </button>
+          </li>
+          <li>
+            <button
+              aria-current="true"
+              aria-label="page 1"
+              class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeMedium MuiPaginationItem-outlined MuiPaginationItem-circular MuiPaginationItem-colorPrimary MuiPaginationItem-outlinedPrimary Mui-selected MuiPaginationItem-page css-vs6a7b-MuiButtonBase-root-MuiPaginationItem-root"
+              tabindex="0"
+              type="button"
+            >
+              1
+            </button>
+          </li>
+          <li>
+            <button
+              aria-label="Go to page 2"
+              class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeMedium MuiPaginationItem-outlined MuiPaginationItem-circular MuiPaginationItem-colorPrimary MuiPaginationItem-outlinedPrimary MuiPaginationItem-page css-vs6a7b-MuiButtonBase-root-MuiPaginationItem-root"
+              tabindex="0"
+              type="button"
+            >
+              2
+            </button>
+          </li>
+          <li>
+            <button
+              aria-label="Go to page 3"
+              class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeMedium MuiPaginationItem-outlined MuiPaginationItem-circular MuiPaginationItem-colorPrimary MuiPaginationItem-outlinedPrimary MuiPaginationItem-page css-vs6a7b-MuiButtonBase-root-MuiPaginationItem-root"
+              tabindex="0"
+              type="button"
+            >
+              3
+            </button>
+          </li>
+          <li>
+            <button
+              aria-label="Go to next page"
+              class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeMedium MuiPaginationItem-outlined MuiPaginationItem-circular MuiPaginationItem-colorPrimary MuiPaginationItem-outlinedPrimary MuiPaginationItem-previousNext css-vs6a7b-MuiButtonBase-root-MuiPaginationItem-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiPaginationItem-icon css-8uzxat-MuiSvgIcon-root-MuiPaginationItem-icon"
+                data-testid="NavigateNextIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+                />
+              </svg>
+            </button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</DocumentFragment>
+`;

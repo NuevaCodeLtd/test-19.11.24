@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostContent Component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 css-1tqiyaw-MuiPaper-root"
+    style="--Paper-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);"
+  >
+    <article>
+      <div
+        class="MuiStack-root css-lxz2k7-MuiStack-root"
+      >
+        <a
+          href="/"
+        >
+          <div
+            class="MuiStack-root css-1qxw92a-MuiStack-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-aixiz9-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="HomeIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"
+                />
+              </svg>
+            </button>
+            Go to Home Page
+          </div>
+        </a>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-v0wh71-MuiButtonBase-root-MuiButton-root"
+          data-testid="delete-btn"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeSmall css-1tjwu2m-MuiButton-startIcon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+              data-testid="DeleteIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6zM19 4h-3.5l-1-1h-5l-1 1H5v2h14z"
+              />
+            </svg>
+          </span>
+          Delete
+        </button>
+        <a
+          href="/edit-post/top-trends-mobile-app-development-2024"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-v0wh71-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeSmall css-1tjwu2m-MuiButton-startIcon"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="EditIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75z"
+                />
+              </svg>
+            </span>
+            Edit
+          </button>
+        </a>
+      </div>
+      <h1
+        class="MuiTypography-root MuiTypography-h4 MuiTypography-gutterBottom css-1it4a80-MuiTypography-root"
+      >
+        Top Trends in Mobile App Development for 2024
+      </h1>
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-2qvmir-MuiTypography-root"
+      >
+        Discover the top mobile app development trends for 2024.
+      </p>
+      <figure>
+        <img
+          alt="Top Trends in Mobile App Development for 2024"
+          class="MuiBox-root css-qwglhd"
+          src="https://placehold.co/600x400?text=Post+1"
+        />
+        <figcaption
+          style="display: flex; align-items: center; gap: 8px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1ye3urd-MuiSvgIcon-root"
+            data-testid="InfoOutlinedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption css-1374baf-MuiTypography-root"
+          >
+            Trends in mobile development.  /  Photo by Unsplash
+          </span>
+        </figcaption>
+      </figure>
+      <div
+        class="MuiStack-root css-82gl7o-MuiStack-root"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circular css-fmeqll-MuiAvatar-root"
+        >
+          <img
+            alt="Author 101"
+            class="MuiAvatar-img css-1su80sj-MuiAvatar-img"
+            src="/images/site/avatars/avatar-5.jpg"
+          />
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1wle3ir-MuiTypography-root"
+        >
+          The article was posted: 
+          <time>
+            October 21, 2024
+          </time>
+           | 5 min read
+        </p>
+      </div>
+      <div
+        class="MuiStack-root css-18temzg-MuiStack-root"
+      >
+        <a
+          href="/tags/mobile_development"
+        >
+          <div
+            class="MuiChip-root MuiChip-outlined MuiChip-sizeSmall MuiChip-colorDefault MuiChip-outlinedDefault css-1d2be57-MuiChip-root"
+          >
+            <span
+              class="MuiChip-label MuiChip-labelSmall css-19m61dl-MuiChip-label"
+            >
+              #mobile_development
+            </span>
+          </div>
+        </a>
+        <a
+          href="/tags/app_trends"
+        >
+          <div
+            class="MuiChip-root MuiChip-outlined MuiChip-sizeSmall MuiChip-colorDefault MuiChip-outlinedDefault css-1d2be57-MuiChip-root"
+          >
+            <span
+              class="MuiChip-label MuiChip-labelSmall css-19m61dl-MuiChip-label"
+            >
+              #app_trends
+            </span>
+          </div>
+        </a>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root css-4pgtvs"
+      >
+        <p>
+          Mobile app development is evolving at a rapid pace, with new technologies like AI and machine learning reshaping the landscape. These trends are expected to have a significant impact on the way apps are built, deployed, and interacted with by users.
+        </p>
+        <p>
+          For 2024, we foresee some key trends that every developer should keep an eye on:
+        </p>
+        <ul>
+          <li>
+            AI integration for personalized user experiences
+          </li>
+          <li>
+            Progressive Web Apps (PWAs) gaining traction
+          </li>
+          <li>
+            5G enabling faster, more immersive apps
+          </li>
+        </ul>
+        <p>
+          To stay ahead of the competition, it's crucial to adopt these trends and keep your development strategies flexible.
+        </p>
+      </div>
+      <div
+        class="MuiBox-root css-h5fkc8"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1wmifpn-MuiTypography-root"
+        >
+          Related Posts
+        </h2>
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1wle3ir-MuiTypography-root"
+        >
+          You might also be interested in:
+        </p>
+        <ul
+          class="MuiList-root MuiList-padding css-b7dj7n-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-b9nkh6-MuiListItem-root"
+          >
+            <a
+              href="/posts/ai-revolutionizing-product-design"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-o8fuj9-MuiTypography-root"
+              >
+                How AI is Revolutionizing Product Design
+              </p>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </article>
+  </div>
+</DocumentFragment>
+`;
